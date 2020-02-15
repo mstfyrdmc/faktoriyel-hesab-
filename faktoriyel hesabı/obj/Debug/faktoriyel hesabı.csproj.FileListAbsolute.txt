@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\bin\Debug\faktoriyel hesabı.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\bin\Debug\faktoriyel hesabı.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\bin\Debug\faktoriyel hesabı.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\obj\Debug\faktoriyel hesabı.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\obj\Debug\faktoriyel_hesabı.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\obj\Debug\faktoriyel_hesabı.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\obj\Debug\faktoriyel hesabı.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\obj\Debug\faktoriyel hesabı.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\obj\Debug\faktoriyel hesabı.exe
+C:\Users\Mustafa YARDIMCI\Desktop\udemy projeler\uygulamalar\faktoriyel hesabı\faktoriyel hesabı\obj\Debug\faktoriyel hesabı.pdb
